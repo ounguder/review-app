@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Single Page Web application to learn how to call single object in an array and render components with the object data. Iterating over the array is carried out by next and previous buttons which controls the index. Index is set by useSate() under if-else logic which handles looping over the array
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
